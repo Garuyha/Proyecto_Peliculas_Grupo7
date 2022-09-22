@@ -1,5 +1,5 @@
 import React from 'react';
-import movies from "../movies.json";
+import movies from "./movies.json";
 import { MoviesCards } from './MoviesCards.jsx';
 import styles from "../Modulos/MoviesGrid.module.css";
 
