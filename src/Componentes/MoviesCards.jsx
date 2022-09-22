@@ -41,7 +41,7 @@ export function MoviesCards({ movie }) {
                         <Popover.Body>
                             <Card style={{ width: '18rem' }}>
                                 <Card.Body>
-                                    <Card.Text>
+                                    <Card.Text className={styles.Text}>
                                         {movie.overview}
                                     </Card.Text>
                                 </Card.Body>

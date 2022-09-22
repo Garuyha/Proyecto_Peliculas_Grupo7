@@ -5,5 +5,10 @@
 
 .movieImage{
     border-radius: 20px;
-    background-color: magenta;
+    background-color: rgb(208, 255, 0);
+}
+
+.Text{    
+    background-color: goldenrod;
+    border-radius: 12px;
 }
